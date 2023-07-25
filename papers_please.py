@@ -1,3 +1,7 @@
+"""
+LINK: https://www.codewars.com/kata/59d582cafbdd0b7ef90000a0
+"""
+
 class document:
     def __init__(self, info: dict):
         self.__keys = info.keys()
