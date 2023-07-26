@@ -20,7 +20,8 @@ class Zombie:
 
 
 class peeshooter():
-	pass
+	def __init__(self, x: int,y: int):
+		seld.position = [x ,y]
 
 
 def plants_and_zombies(lawn,zombies):
